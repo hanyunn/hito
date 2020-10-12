@@ -20,4 +20,14 @@ function draw() {
   strokeWeight(300);
   point(mouseX, mouseY);
 
+  //styles for the ellipse
   
+
+
+  smooth();
+  //styles for the point
+  fill(120);
+  stroke(137, 112, 161)
+  print(mouseX);
+
+}
